@@ -103,12 +103,12 @@ click the "Deploying" button to continue.
 Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
 ![no 7](image-13.png)
 ![no 8](image-14.png)
-![no 9](image-15.png)
+![no 9](image-12.png)
 7. All Done
 Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
-![alt text](image-17.png)
+![no 10](image-17.png)
 Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name".
-![alt text](image-19.png)
-![alt text](image-20.png)
+![no 11](image-15.png)
+![no 12](image-16.png)
 
 Thank You :)
