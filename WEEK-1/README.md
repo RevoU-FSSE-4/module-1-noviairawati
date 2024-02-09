@@ -1,6 +1,8 @@
 # Hello I'm Ira,
 I want to share my assigment about simple website with theme *Build foundational HTML structure for responsive website*
 
+Melody Music School [Here's my deploy](https://melodymusicschool.netlify.app/)
+
 ### HTML Structure
 ### I use semantic element:
 1. Header
@@ -99,10 +101,14 @@ click the "Deploying" button to continue.
 ![no 6](image-10.png)
 6. Build Your Site
 Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
-
-
+![no 7](image-13.png)
+![no 8](image-14.png)
+![no 9](image-15.png)
 7. All Done
 Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
+![alt text](image-17.png)
+Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name".
+![alt text](image-19.png)
+![alt text](image-20.png)
 
-Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name":
-
+Thank You :)
