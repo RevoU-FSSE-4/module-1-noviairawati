@@ -8,7 +8,7 @@
 
 /* Setting all elements*/
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Franklin Gothic Medium', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -479,11 +479,18 @@ main .blogs .box-container .box:hover .image img {
 }
 
 main .blogs .box-container .box .content {
-    padding: 1.5rem;
+    padding: 2rem;
 }
 
+
 main .blogs .box-container .box .content .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #0f0202;
+}
+
+main .blogs >ul li {
+    font-size: 1.5rem;
     line-height: 1.5;
     color: #0f0202;
 }

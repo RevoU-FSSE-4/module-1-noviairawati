@@ -90,17 +90,24 @@ Melody Music School [Here's my deploy]()
 
 #### Auto Deployement on Github with Netlify
 1. Add New Site
+![1](image-5.png)
 
-2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Add A New Project"
+2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import an Existing Project"
+![2](image-6.png)
+
+![3](image-7.png)
 
 3. Authorize Netlify
 It's time to authorized your Netlify and GitHub to connect each other. Clicking the "Authorized"
+![4](image-8.png)
 
 4. Select Your Repo
 Now that you've connected Netlify and GitHub, you can see a list of your Git repos. Choose the repo you’d like to deploy from the list.
+![5](image-9.png)
 
 5. Configure Your Settings
 click the "Deploying" button to continue.
+
 
 6. Build Your Site
 Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
