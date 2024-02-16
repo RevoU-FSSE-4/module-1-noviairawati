@@ -1,7 +1,7 @@
 # Hello I'm Ira,
-I want to share my assigment about simple website with theme *Build foundational HTML structure for responsive website*
+I want to share my assigment white theme *Melody Music School*
 
-Melody Music School [Here's my deploy](https://melodymusicschool.netlify.app/)
+Melody Music School [Here's my deploy]()
 
 ### HTML Structure
 ### I use semantic element:
@@ -74,41 +74,41 @@ Melody Music School [Here's my deploy](https://melodymusicschool.netlify.app/)
 #### Netlify Sign Up Process & Connect Netlify to Github
 1. Open "[netlify](https://app.netlify.com/)"
 ![1](image.png)
+
 2. Clicking "Sign Up"
 ![2](image-1.png)
+
 3. Choose "Sign Up with git Hub"
 ![3](image-2.png)
+
 4. Enter "Username" and "password" > next Clicking "Sign in", Then, Verify your device > Clicking "Verify"
 ![4](image-3.png)
+
 6. All Done, your netlify is live
 ![5](image-4.png)
 
 
 #### Auto Deployement on Github with Netlify
 1. Add New Site
-![no 1](image-5.png)
+
 2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Add A New Project"
-![no 2](image-6.png)
-![no 3](image-7.png)
+
 3. Authorize Netlify
 It's time to authorized your Netlify and GitHub to connect each other. Clicking the "Authorized"
-![no 4](image-8.png)
+
 4. Select Your Repo
 Now that you've connected Netlify and GitHub, you can see a list of your Git repos. Choose the repo you’d like to deploy from the list.
-![no 5](image-9.png)
+
 5. Configure Your Settings
 click the "Deploying" button to continue.
-![no 6](image-10.png)
+
 6. Build Your Site
 Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
-![no 7](image-13.png)
-![no 8](image-14.png)
-![no 9](image-12.png)
+
 7. All Done
 Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
-![no 10](image-17.png)
+
 Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name".
-![no 11](image-15.png)
-![no 12](image-16.png)
+
 
 Thank You :)
