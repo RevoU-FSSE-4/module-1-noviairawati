@@ -1,7 +1,7 @@
 /* Root */
 :root {
-    --main-color: #B3A398;
-    --brown: #F9E8C9;
+    --main-color: #9290C3;
+    --brown: #B3A398;
     --bg: #ffffff;
     --border: .1rem solid rgba(255, 255, 255, .2);
 }
@@ -575,7 +575,7 @@ footer .credit span {
 
 
 
-@media (max-width:450px) {
+@media only screen and (max-width:450px) {
     html {
         font-size: 50%;
     }
@@ -585,7 +585,7 @@ footer .credit span {
     }
 }
 
-@media(max-width:768px) {
+@media only screen and (max-width:768px) {
 
     #ourcourse-btn {
         display: inline-block;
@@ -628,7 +628,7 @@ footer .credit span {
     }
 }
 
-@media (max-width:991px) {
+@media only screen and (max-width:991px) {
     html {
         font-size: 55%;
     }
