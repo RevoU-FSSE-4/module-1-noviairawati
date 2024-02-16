@@ -1,13 +1,82 @@
 # Hello I'm Ira,
 I want to share my assigment white theme *Melody Music School*
 
-Melody Music School [Here's my deploy]()
+Melody Music School [Here's my deploy](https://melodyschool.netlify.app/)
+![web](image-18.png)
+
 
 ### HTML Structure
 ### I use semantic element:
 1. Header
 2. Main
 3. Footer
+
+
+### Deployment Prosess
+
+#### Netlify Sign Up Process & Connect Netlify to Github
+1. Open "[netlify](https://app.netlify.com/)"
+![1](image.png)
+
+2. Clicking "Sign Up"
+![2](image-1.png)
+
+3. Choose "Sign Up with git Hub"
+![3](image-2.png)
+
+4. Enter "Username" and "password" > next Clicking "Sign in", Then, Verify your device > Clicking "Verify"
+![4](image-3.png)
+
+6. All Done, your netlify is live
+![5](image-4.png)
+
+
+#### Auto Deployement on Github with Netlify
+1. Add New Site
+
+![1](image-5.png)
+
+2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import an Existing Project"
+
+![2](image-6.png)
+
+![3](image-7.png)
+
+3. Authorize Netlify
+It's time to authorized your Netlify and GitHub to connect each other. Clicking the "Authorized"
+
+![4](image-8.png)
+
+4. Select Your Repo
+Now that you've connected Netlify and GitHub, you can see a list of your Git repos. Choose the repo you’d like to deploy from the list.
+
+![5](image-9.png)
+
+5. Configure Your Settings, click the "Deploying" button to continue.
+
+![6](image-10.png)
+
+6. Build Your Site
+Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
+![7](image-11.png)
+
+7. All Done
+Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
+
+![8](image-12.png)
+
+![9](image-13.png)
+
+Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name".
+
+![10](image-14.png)
+
+![11](image-15.png)
+
+![12](image-16.png)
+
+![13](image-17.png)
+
 
 ### Git Command
 #### Getting & Creating Projects
@@ -68,54 +137,5 @@ Melody Music School [Here's my deploy]()
 |git log --oneline 	                                            |View changes (briefly)                                                       |
 |git diff [source branch] [target branch] 	                    |Preview changes before merging                   |
 |                                                               |                                                 |
-
-### Deployment Prosess
-
-#### Netlify Sign Up Process & Connect Netlify to Github
-1. Open "[netlify](https://app.netlify.com/)"
-![1](image.png)
-
-2. Clicking "Sign Up"
-![2](image-1.png)
-
-3. Choose "Sign Up with git Hub"
-![3](image-2.png)
-
-4. Enter "Username" and "password" > next Clicking "Sign in", Then, Verify your device > Clicking "Verify"
-![4](image-3.png)
-
-6. All Done, your netlify is live
-![5](image-4.png)
-
-
-#### Auto Deployement on Github with Netlify
-1. Add New Site
-![1](image-5.png)
-
-2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import an Existing Project"
-![2](image-6.png)
-
-![3](image-7.png)
-
-3. Authorize Netlify
-It's time to authorized your Netlify and GitHub to connect each other. Clicking the "Authorized"
-![4](image-8.png)
-
-4. Select Your Repo
-Now that you've connected Netlify and GitHub, you can see a list of your Git repos. Choose the repo you’d like to deploy from the list.
-![5](image-9.png)
-
-5. Configure Your Settings
-click the "Deploying" button to continue.
-
-
-6. Build Your Site
-Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
-
-7. All Done
-Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
-
-Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name".
-
 
 Thank You :)
