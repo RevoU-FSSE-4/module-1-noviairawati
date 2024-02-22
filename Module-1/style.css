@@ -1,3 +1,6 @@
+/* Google fonts link for Font  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
 /* Root */
 :root {
   --main-color: #9290c3;
@@ -8,7 +11,7 @@
 
 /* Setting all elements*/
 * {
-  font-family: "Franklin Gothic Medium", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -118,6 +121,11 @@ header .navbar.active {
   right: 0;
 }
 
+/* Hidden id : menu-btn */
+#menu-btn {
+  display: none;
+}
+
 /* Icons */
 header .icons div {
   color: #0f0202;
@@ -129,11 +137,6 @@ header .icons div {
 /* Change the color of links on hover */
 header .icons div:hover {
   color: var(--main-color);
-}
-
-/* Hidden id : ourcourse-btn */
-#ourcourse-btn {
-  display: none;
 }
 
 /* search-form */
@@ -238,7 +241,7 @@ main .about .row .content p {
   line-height: 1.8;
 }
 
-/* Our Course : box-container-box-price*/
+/* Our Course */
 main .ourcourse .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -261,7 +264,7 @@ main .ourcourse .box-container .box h3 {
   padding: 1rem 0;
 }
 
-main .ourcourseu .box-container .box .price {
+main .ourcourse .box-container .box .price {
   color: #0f0202;
   font-size: 2.5rem;
   padding: 5rem 0;
@@ -576,7 +579,7 @@ footer .credit span {
 }
 
 @media only screen and (max-width: 768px) {
-  #ourcourse-btn {
+  #menu-btn {
     display: inline-block;
   }
 
